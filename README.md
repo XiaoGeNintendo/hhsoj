@@ -5,6 +5,9 @@ A Online Judge under MIT and HHS. By XiaoGeNintendo in Hell Hole Studios. Made b
 
 <b> Now testing version only. Full of bugs :D </b>
 
+# Where're the codes first??
+In another branch~
+
 # Inside the code
 I've provided an account for you to login and check code.
 
